@@ -1,6 +1,6 @@
 # Technical exercise	
 
-We would like to challenge you with technical exercise, that will check level of your knowledge in common DevOps technologies that we’re using. You don’t have to do all of the exercises, but try to do as much as you can.
+We would like to challenge you with a technical exercise. It will check the level of your knowledge in common DevOps technologies that we’re using. You don’t have to do all of the exercises, but try to do as much as you can.
 
 ### 1. Github
 All your changes should be made in a **private** fork of this repository. When you're done please, please:
