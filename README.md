@@ -11,7 +11,7 @@ All your changes should be made in a **private** fork of this repository. When y
 * Prepare a simple 3-tier hello-world application with flask or django where you can simply interact (read/write) with database.
 
 ### 3. Docker
-* Dockerize application that you have been prepared
+* Dockerize the prepared application
 * Prepare Docker Compose files for local/dev/prod environments
 
 ### 4. Automation
