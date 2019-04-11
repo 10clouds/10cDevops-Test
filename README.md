@@ -25,6 +25,6 @@ All your changes should be made in a **private** fork of this repository. When y
 * Remember about writing simple and clear documentation of how to run your application.
 
 ### *7. Kubernetes
-* Make sure that your containers can be deployed on Kubernetes Clusters. Minikube can be your new friend.
+* Make sure that your containers can be deployed on Kubernetes Cluster. Minikube can be your new friend.
 
 ### 8. If you have any ideas and want to expand above tasks feel free to do so! 
