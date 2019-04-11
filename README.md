@@ -15,7 +15,7 @@ All your changes should be made in a **private** fork of this repository. When y
 * Prepare Docker Compose files for local/dev/prod environments
 
 ### 4. Automation
-* Prepare ci/cd flow in declarative pipeline (Jenkinsfile) 
+* Prepare CI/CD flow as a declarative pipeline (Jenkinsfile) 
 * Use ansible to deploy all changes to server
 
 ### 5. Infrastructure
