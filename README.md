@@ -19,7 +19,7 @@ All your changes should be made in a **private** fork of this repository. When y
 * Use ansible to deploy all changes to server
 
 ### 5. Infrastructure
-* Terraform → Prepare IaC setup on one of the selected public clouds (aws/gcp). Think’s about: VPC, EC2/ECS, S3, RDS, ELB etc.
+* Terraform → Prepare IaC setup on one of the selected public clouds (aws/gcp). Think about: VPC, EC2/ECS, S3, RDS, ELB etc.
 
 ### 6. Documentation
 * Remember about writing simple, clean documentation of how to run your application.
