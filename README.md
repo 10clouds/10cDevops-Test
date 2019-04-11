@@ -8,7 +8,7 @@ All your changes should be made in a **private** fork of this repository. When y
 * Give read only access to 10Clouds-devops-test user.
 
 ### 2. Application
-* Prepare simple 3-tier hello-world application with flask or django where you can simply interact (read/write) with database.
+* Prepare a simple 3-tier hello-world application with flask or django where you can simply interact (read/write) with database.
 
 ### 3. Docker
 * Dockerize application that you have been prepared
