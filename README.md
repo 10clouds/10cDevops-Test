@@ -22,7 +22,7 @@ All your changes should be made in a **private** fork of this repository. When y
 * Terraform → Prepare IaC setup on one of the selected public clouds (aws/gcp). Think about: VPC, EC2/ECS, S3, RDS, ELB etc.
 
 ### 6. Documentation
-* Remember about writing simple, clean documentation of how to run your application.
+* Remember about writing simple and clear documentation of how to run your application.
 
 ### *7. Kubernetes
 * Make sure that your containers can be deployed on Kubernetes Clusters. Minikube can be your new friend.
